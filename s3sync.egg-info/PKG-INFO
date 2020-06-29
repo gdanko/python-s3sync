@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: s3sync
+Version: 0.1.3
+Summary: A Python package which facilitates fast and intelligent syncing between s3 > s3, s3 > local, and local > s3
+Home-page: https://github.intuit.com/gdanko/python-s3sync
+Author: Gary Danko
+Author-email: gary_danko@intuit.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: POSIX :: Other
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

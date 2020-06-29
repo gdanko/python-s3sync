@@ -1,0 +1,11 @@
+README.md
+setup.py
+s3sync/diff.py
+s3sync/exception.py
+s3sync/sync.py
+s3sync/utils.py
+s3sync.egg-info/PKG-INFO
+s3sync.egg-info/SOURCES.txt
+s3sync.egg-info/dependency_links.txt
+s3sync.egg-info/requires.txt
+s3sync.egg-info/top_level.txt
