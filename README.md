@@ -1,2 +1,2 @@
 # python-s3sync
-s3 Sync utility for Python
+s3 sync utility for Python
